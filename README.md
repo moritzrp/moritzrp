@@ -9,8 +9,8 @@ Terminal for life
 - Develop plugins for Jira
 
 #### What I do on the side
+- Learning Lua
 - Going full nvim
-- Deepening knowledge in coding and hosting
 
 <!--
 **moritzrp/moritzrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
