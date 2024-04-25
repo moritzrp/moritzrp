@@ -10,7 +10,7 @@ Terminal for life
 
 #### What I do on the side
 - Learning Lua
-- Going full nvim
+- Going full Nvim
 
 <!--
 **moritzrp/moritzrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
