@@ -1,6 +1,6 @@
 ### Moritz Ruprecht
 
-Person working in IT somewhere under the umbrella term DevOps.
+Terminal for life
 
 #### What I do for a living
 - Develop apps with Django, ASP.NET and Angular
@@ -10,7 +10,7 @@ Person working in IT somewhere under the umbrella term DevOps.
 
 #### What I do on the side
 - Going full nvim
-- Deepening knowledge in software development and architecture
+- Deepening knowledge in coding and hosting
 
 <!--
 **moritzrp/moritzrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
