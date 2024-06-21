@@ -10,13 +10,7 @@ I'm passionate about creating innovative applications and pipelines to automate 
 
 ### Where you can find me
 <div>
-  <a href="https://github.com/moritzrp" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/moritz-r-5290b6230" target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.xing.com/profile/Moritz_Ruprecht04679" target="_blank">
-    <img alt="Xing" src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" />
-  </a>
+  <a href="https://github.com/moritzrp" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/moritz-r-5290b6230" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.xing.com/profile/Moritz_Ruprecht04679" target="_blank"><img alt="Xing" src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" /></a>
 </div>
